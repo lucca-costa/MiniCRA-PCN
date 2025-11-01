@@ -1,0 +1,970 @@
+============================================================
+Training MiniCRAPCN
+Device: cuda
+Model parameters: 2.59M
+Checkpoint dir: /content/drive/MyDrive/checkpoints_new_v1_2
+============================================================
+
+Epoch 1/200 - Corruption Rate: 30.00%
+Epoch 1/200: 100%|██████████| 62/62 [03:29<00:00,  3.37s/it, loss=0.111484, avg_loss=0.179592]
+Epoch 1 - Train Loss: 0.179592 - Time: 209.1s - LR: 0.000100
+
+Epoch 2/200 - Corruption Rate: 30.60%
+Epoch 2/200: 100%|██████████| 62/62 [03:27<00:00,  3.35s/it, loss=0.093230, avg_loss=0.104044]
+Epoch 2 - Train Loss: 0.104044 - Time: 207.9s - LR: 0.000100
+✓ Saved checkpoint
+
+Epoch 3/200 - Corruption Rate: 31.20%
+Epoch 3/200: 100%|██████████| 62/62 [03:27<00:00,  3.35s/it, loss=0.073624, avg_loss=0.088877]
+Epoch 3 - Train Loss: 0.088877 - Time: 207.6s - LR: 0.000100
+
+Epoch 4/200 - Corruption Rate: 31.80%
+Epoch 4/200: 100%|██████████| 62/62 [03:27<00:00,  3.34s/it, loss=0.076291, avg_loss=0.080605]
+Epoch 4 - Train Loss: 0.080605 - Time: 207.2s - LR: 0.000100
+✓ Saved checkpoint
+
+Epoch 5/200 - Corruption Rate: 32.40%
+Epoch 5/200: 100%|██████████| 62/62 [03:27<00:00,  3.34s/it, loss=0.076464, avg_loss=0.074996]Epoch 5 - Train Loss: 0.074996 - Time: 207.2s - LR: 0.000100
+
+Validation Loss: 0.191757
+✓ Saved best model (val_loss: 0.191757)
+
+Epoch 6/200 - Corruption Rate: 33.00%
+Epoch 6/200: 100%|██████████| 62/62 [03:27<00:00,  3.35s/it, loss=0.067918, avg_loss=0.070400]
+Epoch 6 - Train Loss: 0.070400 - Time: 207.7s - LR: 0.000100
+✓ Saved checkpoint
+
+Epoch 7/200 - Corruption Rate: 33.60%
+Epoch 7/200: 100%|██████████| 62/62 [03:27<00:00,  3.34s/it, loss=0.067021, avg_loss=0.067373]
+Epoch 7 - Train Loss: 0.067373 - Time: 207.2s - LR: 0.000100
+
+Epoch 8/200 - Corruption Rate: 34.20%
+Epoch 8/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.057323, avg_loss=0.064335]
+Epoch 8 - Train Loss: 0.064335 - Time: 208.5s - LR: 0.000100
+✓ Saved checkpoint
+
+Epoch 9/200 - Corruption Rate: 34.80%
+Epoch 9/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.067565, avg_loss=0.062543]
+Epoch 9 - Train Loss: 0.062543 - Time: 208.6s - LR: 0.000100
+
+Epoch 10/200 - Corruption Rate: 35.40%
+Epoch 10/200: 100%|██████████| 62/62 [03:28<00:00,  3.37s/it, loss=0.062503, avg_loss=0.060845]Epoch 10 - Train Loss: 0.060845 - Time: 209.0s - LR: 0.000100
+
+Validation Loss: 0.157061
+✓ Saved best model (val_loss: 0.157061)
+✓ Saved checkpoint
+
+Epoch 11/200 - Corruption Rate: 36.00%
+Epoch 11/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.057058, avg_loss=0.059420]
+Epoch 11 - Train Loss: 0.059420 - Time: 208.5s - LR: 0.000100
+
+Epoch 12/200 - Corruption Rate: 36.60%
+Epoch 12/200: 100%|██████████| 62/62 [03:28<00:00,  3.37s/it, loss=0.053566, avg_loss=0.057849]
+Epoch 12 - Train Loss: 0.057849 - Time: 209.0s - LR: 0.000100
+✓ Saved checkpoint
+
+Epoch 13/200 - Corruption Rate: 37.20%
+Epoch 13/200: 100%|██████████| 62/62 [03:28<00:00,  3.37s/it, loss=0.063223, avg_loss=0.057285]
+Epoch 13 - Train Loss: 0.057285 - Time: 208.7s - LR: 0.000100
+
+Epoch 14/200 - Corruption Rate: 37.80%
+Epoch 14/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.056508, avg_loss=0.056008]
+Epoch 14 - Train Loss: 0.056008 - Time: 208.3s - LR: 0.000100
+✓ Saved checkpoint
+
+Epoch 15/200 - Corruption Rate: 38.40%
+Epoch 15/200: 100%|██████████| 62/62 [03:27<00:00,  3.35s/it, loss=0.052822, avg_loss=0.055377]Epoch 15 - Train Loss: 0.055377 - Time: 207.6s - LR: 0.000100
+
+Validation Loss: 0.132250
+✓ Saved best model (val_loss: 0.132250)
+
+Epoch 16/200 - Corruption Rate: 39.00%
+Epoch 16/200: 100%|██████████| 62/62 [03:28<00:00,  3.37s/it, loss=0.054157, avg_loss=0.054406]
+Epoch 16 - Train Loss: 0.054406 - Time: 208.7s - LR: 0.000100
+✓ Saved checkpoint
+
+Epoch 17/200 - Corruption Rate: 39.60%
+Epoch 17/200: 100%|██████████| 62/62 [03:27<00:00,  3.35s/it, loss=0.052598, avg_loss=0.053701]
+Epoch 17 - Train Loss: 0.053701 - Time: 208.0s - LR: 0.000100
+
+Epoch 18/200 - Corruption Rate: 40.20%
+Epoch 18/200: 100%|██████████| 62/62 [03:27<00:00,  3.35s/it, loss=0.050787, avg_loss=0.053292]
+Epoch 18 - Train Loss: 0.053292 - Time: 207.8s - LR: 0.000100
+✓ Saved checkpoint
+
+Epoch 19/200 - Corruption Rate: 40.80%
+Epoch 19/200: 100%|██████████| 62/62 [03:27<00:00,  3.35s/it, loss=0.054226, avg_loss=0.052640]
+Epoch 19 - Train Loss: 0.052640 - Time: 207.9s - LR: 0.000100
+
+Epoch 20/200 - Corruption Rate: 41.40%
+Epoch 20/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.054230, avg_loss=0.052008]Epoch 20 - Train Loss: 0.052008 - Time: 208.4s - LR: 0.000100
+
+Validation Loss: 0.112738
+✓ Saved best model (val_loss: 0.112738)
+✓ Saved checkpoint
+
+Epoch 21/200 - Corruption Rate: 42.00%
+Epoch 21/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.051032, avg_loss=0.051836]
+Epoch 21 - Train Loss: 0.051836 - Time: 208.1s - LR: 0.000100
+
+Epoch 22/200 - Corruption Rate: 42.60%
+Epoch 22/200: 100%|██████████| 62/62 [03:27<00:00,  3.35s/it, loss=0.049405, avg_loss=0.051186]
+Epoch 22 - Train Loss: 0.051186 - Time: 207.7s - LR: 0.000100
+✓ Saved checkpoint
+
+Epoch 23/200 - Corruption Rate: 43.20%
+Epoch 23/200: 100%|██████████| 62/62 [03:27<00:00,  3.35s/it, loss=0.048640, avg_loss=0.050953]
+Epoch 23 - Train Loss: 0.050953 - Time: 208.0s - LR: 0.000100
+
+Epoch 24/200 - Corruption Rate: 43.80%
+Epoch 24/200: 100%|██████████| 62/62 [03:29<00:00,  3.38s/it, loss=0.054878, avg_loss=0.050560]
+Epoch 24 - Train Loss: 0.050560 - Time: 209.7s - LR: 0.000100
+✓ Saved checkpoint
+
+Epoch 25/200 - Corruption Rate: 44.40%
+Epoch 25/200: 100%|██████████| 62/62 [03:28<00:00,  3.37s/it, loss=0.046374, avg_loss=0.050491]Epoch 25 - Train Loss: 0.050491 - Time: 208.9s - LR: 0.000100
+
+Validation Loss: 0.106753
+✓ Saved best model (val_loss: 0.106753)
+
+Epoch 26/200 - Corruption Rate: 45.00%
+Epoch 26/200: 100%|██████████| 62/62 [03:28<00:00,  3.37s/it, loss=0.044737, avg_loss=0.049869]
+Epoch 26 - Train Loss: 0.049869 - Time: 208.9s - LR: 0.000100
+✓ Saved checkpoint
+
+Epoch 27/200 - Corruption Rate: 45.60%
+Epoch 27/200: 100%|██████████| 62/62 [03:29<00:00,  3.38s/it, loss=0.049134, avg_loss=0.049720]
+Epoch 27 - Train Loss: 0.049720 - Time: 209.8s - LR: 0.000100
+
+Epoch 28/200 - Corruption Rate: 46.20%
+Epoch 28/200: 100%|██████████| 62/62 [03:29<00:00,  3.38s/it, loss=0.051468, avg_loss=0.049748]
+Epoch 28 - Train Loss: 0.049748 - Time: 209.5s - LR: 0.000100
+✓ Saved checkpoint
+
+Epoch 29/200 - Corruption Rate: 46.80%
+Epoch 29/200: 100%|██████████| 62/62 [03:28<00:00,  3.37s/it, loss=0.054727, avg_loss=0.049304]
+Epoch 29 - Train Loss: 0.049304 - Time: 208.7s - LR: 0.000100
+
+Epoch 30/200 - Corruption Rate: 47.40%
+Epoch 30/200: 100%|██████████| 62/62 [03:28<00:00,  3.37s/it, loss=0.044822, avg_loss=0.049566]Epoch 30 - Train Loss: 0.049566 - Time: 209.0s - LR: 0.000100
+
+Validation Loss: 0.094881
+✓ Saved best model (val_loss: 0.094881)
+✓ Saved checkpoint
+
+Epoch 31/200 - Corruption Rate: 48.00%
+Epoch 31/200: 100%|██████████| 62/62 [03:27<00:00,  3.35s/it, loss=0.047539, avg_loss=0.049450]
+Epoch 31 - Train Loss: 0.049450 - Time: 207.8s - LR: 0.000100
+
+Epoch 32/200 - Corruption Rate: 48.60%
+Epoch 32/200: 100%|██████████| 62/62 [03:28<00:00,  3.37s/it, loss=0.047664, avg_loss=0.048723]
+Epoch 32 - Train Loss: 0.048723 - Time: 208.7s - LR: 0.000100
+✓ Saved checkpoint
+
+Epoch 33/200 - Corruption Rate: 49.20%
+Epoch 33/200: 100%|██████████| 62/62 [03:27<00:00,  3.35s/it, loss=0.046202, avg_loss=0.048642]
+Epoch 33 - Train Loss: 0.048642 - Time: 207.5s - LR: 0.000100
+
+Epoch 34/200 - Corruption Rate: 49.80%
+Epoch 34/200: 100%|██████████| 62/62 [03:27<00:00,  3.35s/it, loss=0.049063, avg_loss=0.048358]
+Epoch 34 - Train Loss: 0.048358 - Time: 207.9s - LR: 0.000100
+✓ Saved checkpoint
+
+Epoch 35/200 - Corruption Rate: 50.40%
+Epoch 35/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.044368, avg_loss=0.047980]Epoch 35 - Train Loss: 0.047980 - Time: 208.1s - LR: 0.000100
+
+Validation Loss: 0.091700
+✓ Saved best model (val_loss: 0.091700)
+
+Epoch 36/200 - Corruption Rate: 51.00%
+Epoch 36/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.048854, avg_loss=0.048184]
+Epoch 36 - Train Loss: 0.048184 - Time: 208.5s - LR: 0.000100
+✓ Saved checkpoint
+
+Epoch 37/200 - Corruption Rate: 51.60%
+Epoch 37/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.051883, avg_loss=0.048106]
+Epoch 37 - Train Loss: 0.048106 - Time: 208.3s - LR: 0.000100
+
+Epoch 38/200 - Corruption Rate: 52.20%
+Epoch 38/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.048159, avg_loss=0.047864]
+Epoch 38 - Train Loss: 0.047864 - Time: 208.4s - LR: 0.000100
+✓ Saved checkpoint
+
+Epoch 39/200 - Corruption Rate: 52.80%
+Epoch 39/200: 100%|██████████| 62/62 [03:27<00:00,  3.35s/it, loss=0.051985, avg_loss=0.047886]
+Epoch 39 - Train Loss: 0.047886 - Time: 207.7s - LR: 0.000100
+
+Epoch 40/200 - Corruption Rate: 53.40%
+Epoch 40/200: 100%|██████████| 62/62 [03:28<00:00,  3.37s/it, loss=0.047532, avg_loss=0.047838]Epoch 40 - Train Loss: 0.047838 - Time: 208.7s - LR: 0.000100
+
+Validation Loss: 0.086050
+✓ Saved best model (val_loss: 0.086050)
+✓ Saved checkpoint
+
+Epoch 41/200 - Corruption Rate: 54.00%
+Epoch 41/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.046792, avg_loss=0.047753]
+Epoch 41 - Train Loss: 0.047753 - Time: 208.6s - LR: 0.000100
+
+Epoch 42/200 - Corruption Rate: 54.60%
+Epoch 42/200: 100%|██████████| 62/62 [03:28<00:00,  3.37s/it, loss=0.058388, avg_loss=0.047625]
+Epoch 42 - Train Loss: 0.047625 - Time: 208.9s - LR: 0.000100
+✓ Saved checkpoint
+
+Epoch 43/200 - Corruption Rate: 55.20%
+Epoch 43/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.048154, avg_loss=0.047760]
+Epoch 43 - Train Loss: 0.047760 - Time: 208.6s - LR: 0.000100
+
+Epoch 44/200 - Corruption Rate: 55.80%
+Epoch 44/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.047123, avg_loss=0.047239]
+Epoch 44 - Train Loss: 0.047239 - Time: 208.5s - LR: 0.000100
+✓ Saved checkpoint
+
+Epoch 45/200 - Corruption Rate: 56.40%
+Epoch 45/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.044015, avg_loss=0.047268]Epoch 45 - Train Loss: 0.047268 - Time: 208.2s - LR: 0.000100
+
+Validation Loss: 0.081829
+✓ Saved best model (val_loss: 0.081829)
+
+Epoch 46/200 - Corruption Rate: 57.00%
+Epoch 46/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.048419, avg_loss=0.047347]
+Epoch 46 - Train Loss: 0.047347 - Time: 208.6s - LR: 0.000100
+✓ Saved checkpoint
+
+Epoch 47/200 - Corruption Rate: 57.60%
+Epoch 47/200: 100%|██████████| 62/62 [03:28<00:00,  3.37s/it, loss=0.044442, avg_loss=0.047446]
+Epoch 47 - Train Loss: 0.047446 - Time: 208.8s - LR: 0.000100
+
+Epoch 48/200 - Corruption Rate: 58.20%
+Epoch 48/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.047481, avg_loss=0.047398]
+Epoch 48 - Train Loss: 0.047398 - Time: 208.6s - LR: 0.000100
+✓ Saved checkpoint
+
+Epoch 49/200 - Corruption Rate: 58.80%
+Epoch 49/200: 100%|██████████| 62/62 [03:28<00:00,  3.37s/it, loss=0.044550, avg_loss=0.047218]
+Epoch 49 - Train Loss: 0.047218 - Time: 208.7s - LR: 0.000100
+
+Epoch 50/200 - Corruption Rate: 59.40%
+Epoch 50/200: 100%|██████████| 62/62 [03:29<00:00,  3.39s/it, loss=0.046467, avg_loss=0.047747]Epoch 50 - Train Loss: 0.047747 - Time: 209.9s - LR: 0.000100
+
+Validation Loss: 0.077312
+✓ Saved best model (val_loss: 0.077312)
+✓ Saved checkpoint
+
+Epoch 51/200 - Corruption Rate: 60.00%
+Epoch 51/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.044342, avg_loss=0.046654]
+Epoch 51 - Train Loss: 0.046654 - Time: 208.6s - LR: 0.000050
+
+Epoch 52/200 - Corruption Rate: 60.60%
+Epoch 52/200: 100%|██████████| 62/62 [03:28<00:00,  3.37s/it, loss=0.043457, avg_loss=0.046512]
+Epoch 52 - Train Loss: 0.046512 - Time: 209.0s - LR: 0.000050
+✓ Saved checkpoint
+
+Epoch 53/200 - Corruption Rate: 61.20%
+Epoch 53/200: 100%|██████████| 62/62 [03:27<00:00,  3.35s/it, loss=0.046332, avg_loss=0.046746]
+Epoch 53 - Train Loss: 0.046746 - Time: 207.7s - LR: 0.000050
+
+Epoch 54/200 - Corruption Rate: 61.80%
+Epoch 54/200: 100%|██████████| 62/62 [03:27<00:00,  3.34s/it, loss=0.044614, avg_loss=0.046748]
+Epoch 54 - Train Loss: 0.046748 - Time: 207.3s - LR: 0.000050
+✓ Saved checkpoint
+
+Epoch 55/200 - Corruption Rate: 62.40%
+Epoch 55/200: 100%|██████████| 62/62 [03:27<00:00,  3.35s/it, loss=0.046988, avg_loss=0.046797]Epoch 55 - Train Loss: 0.046797 - Time: 207.6s - LR: 0.000050
+
+Validation Loss: 0.076873
+✓ Saved best model (val_loss: 0.076873)
+
+Epoch 56/200 - Corruption Rate: 63.00%
+Epoch 56/200: 100%|██████████| 62/62 [03:27<00:00,  3.35s/it, loss=0.048457, avg_loss=0.046710]
+Epoch 56 - Train Loss: 0.046710 - Time: 207.5s - LR: 0.000050
+✓ Saved checkpoint
+
+Epoch 57/200 - Corruption Rate: 63.60%
+Epoch 57/200: 100%|██████████| 62/62 [03:27<00:00,  3.35s/it, loss=0.051076, avg_loss=0.047058]
+Epoch 57 - Train Loss: 0.047058 - Time: 207.5s - LR: 0.000050
+
+Epoch 58/200 - Corruption Rate: 64.20%
+Epoch 58/200: 100%|██████████| 62/62 [03:27<00:00,  3.35s/it, loss=0.047979, avg_loss=0.046872]
+Epoch 58 - Train Loss: 0.046872 - Time: 207.7s - LR: 0.000050
+✓ Saved checkpoint
+
+Epoch 59/200 - Corruption Rate: 64.80%
+Epoch 59/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.048038, avg_loss=0.047112]
+Epoch 59 - Train Loss: 0.047112 - Time: 208.3s - LR: 0.000050
+
+Epoch 60/200 - Corruption Rate: 65.40%
+Epoch 60/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.046767, avg_loss=0.047128]Epoch 60 - Train Loss: 0.047128 - Time: 208.1s - LR: 0.000050
+
+Validation Loss: 0.074985
+✓ Saved best model (val_loss: 0.074985)
+✓ Saved checkpoint
+
+Epoch 61/200 - Corruption Rate: 66.00%
+Epoch 61/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.047438, avg_loss=0.047813]
+Epoch 61 - Train Loss: 0.047813 - Time: 208.2s - LR: 0.000050
+
+Epoch 62/200 - Corruption Rate: 66.60%
+Epoch 62/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.052404, avg_loss=0.047458]
+Epoch 62 - Train Loss: 0.047458 - Time: 208.6s - LR: 0.000050
+✓ Saved checkpoint
+
+Epoch 63/200 - Corruption Rate: 67.20%
+Epoch 63/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.047117, avg_loss=0.047373]
+Epoch 63 - Train Loss: 0.047373 - Time: 208.3s - LR: 0.000050
+
+Epoch 64/200 - Corruption Rate: 67.80%
+Epoch 64/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.045855, avg_loss=0.047906]
+Epoch 64 - Train Loss: 0.047906 - Time: 208.4s - LR: 0.000050
+✓ Saved checkpoint
+
+Epoch 65/200 - Corruption Rate: 68.40%
+Epoch 65/200: 100%|██████████| 62/62 [03:30<00:00,  3.40s/it, loss=0.049229, avg_loss=0.047844]Epoch 65 - Train Loss: 0.047844 - Time: 210.9s - LR: 0.000050
+
+Validation Loss: 0.069239
+✓ Saved best model (val_loss: 0.069239)
+
+Epoch 66/200 - Corruption Rate: 69.00%
+Epoch 66/200: 100%|██████████| 62/62 [03:28<00:00,  3.37s/it, loss=0.044936, avg_loss=0.047919]
+Epoch 66 - Train Loss: 0.047919 - Time: 208.8s - LR: 0.000050
+✓ Saved checkpoint
+
+Epoch 67/200 - Corruption Rate: 69.60%
+Epoch 67/200: 100%|██████████| 62/62 [03:27<00:00,  3.35s/it, loss=0.052060, avg_loss=0.047919]
+Epoch 67 - Train Loss: 0.047919 - Time: 207.7s - LR: 0.000050
+
+Epoch 68/200 - Corruption Rate: 70.20%
+Epoch 68/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.046041, avg_loss=0.047893]
+Epoch 68 - Train Loss: 0.047893 - Time: 208.2s - LR: 0.000050
+✓ Saved checkpoint
+
+Epoch 69/200 - Corruption Rate: 70.80%
+Epoch 69/200: 100%|██████████| 62/62 [03:27<00:00,  3.35s/it, loss=0.050834, avg_loss=0.048397]
+Epoch 69 - Train Loss: 0.048397 - Time: 207.9s - LR: 0.000050
+
+Epoch 70/200 - Corruption Rate: 71.40%
+Epoch 70/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.047884, avg_loss=0.048432]Epoch 70 - Train Loss: 0.048432 - Time: 208.1s - LR: 0.000050
+
+Validation Loss: 0.066098
+✓ Saved best model (val_loss: 0.066098)
+✓ Saved checkpoint
+
+Epoch 71/200 - Corruption Rate: 72.00%
+Epoch 71/200: 100%|██████████| 62/62 [03:27<00:00,  3.34s/it, loss=0.048130, avg_loss=0.048740]
+Epoch 71 - Train Loss: 0.048740 - Time: 207.3s - LR: 0.000050
+
+Epoch 72/200 - Corruption Rate: 72.60%
+Epoch 72/200: 100%|██████████| 62/62 [03:27<00:00,  3.35s/it, loss=0.048060, avg_loss=0.048866]
+Epoch 72 - Train Loss: 0.048866 - Time: 207.8s - LR: 0.000050
+✓ Saved checkpoint
+
+Epoch 73/200 - Corruption Rate: 73.20%
+Epoch 73/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.043832, avg_loss=0.048728]
+Epoch 73 - Train Loss: 0.048728 - Time: 208.0s - LR: 0.000050
+
+Epoch 74/200 - Corruption Rate: 73.80%
+Epoch 74/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.049427, avg_loss=0.048809]
+Epoch 74 - Train Loss: 0.048809 - Time: 208.0s - LR: 0.000050
+✓ Saved checkpoint
+
+Epoch 75/200 - Corruption Rate: 74.40%
+Epoch 75/200: 100%|██████████| 62/62 [03:27<00:00,  3.35s/it, loss=0.043266, avg_loss=0.049066]Epoch 75 - Train Loss: 0.049066 - Time: 207.8s - LR: 0.000050
+
+Validation Loss: 0.064901
+✓ Saved best model (val_loss: 0.064901)
+
+Epoch 76/200 - Corruption Rate: 75.00%
+Epoch 76/200: 100%|██████████| 62/62 [03:27<00:00,  3.34s/it, loss=0.044968, avg_loss=0.049107]
+Epoch 76 - Train Loss: 0.049107 - Time: 207.0s - LR: 0.000050
+✓ Saved checkpoint
+
+Epoch 77/200 - Corruption Rate: 75.60%
+Epoch 77/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.050233, avg_loss=0.049762]
+Epoch 77 - Train Loss: 0.049762 - Time: 208.6s - LR: 0.000050
+
+Epoch 78/200 - Corruption Rate: 76.20%
+Epoch 78/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.041875, avg_loss=0.049837]
+Epoch 78 - Train Loss: 0.049837 - Time: 208.6s - LR: 0.000050
+✓ Saved checkpoint
+
+Epoch 79/200 - Corruption Rate: 76.80%
+Epoch 79/200: 100%|██████████| 62/62 [03:28<00:00,  3.36s/it, loss=0.049757, avg_loss=0.049986]
+Epoch 79 - Train Loss: 0.049986 - Time: 208.2s - LR: 0.000050
+
+Epoch 80/200 - Corruption Rate: 77.40%
+Epoch 80/200: 100%|██████████| 62/62 [03:29<00:00,  3.39s/it, loss=0.052840, avg_loss=0.050115]Epoch 80 - Train Loss: 0.050115 - Time: 210.0s - LR: 0.000050
+
+Validation Loss: 0.062627
+✓ Saved best model (val_loss: 0.062627)
+✓ Saved checkpoint
+
+Epoch 81/200 - Corruption Rate: 78.00%
+Epoch 81/200: 100%|██████████| 62/62 [03:27<00:00,  3.35s/it, loss=0.043216, avg_loss=0.050051]
+Epoch 81 - Train Loss: 0.050051 - Time: 207.9s - LR: 0.000050
+
+Epoch 82/200 - Corruption Rate: 78.60%
+Epoch 82/200: 100%|██████████| 62/62 [03:27<00:00,  3.35s/it, loss=0.056407, avg_loss=0.050643]
+Epoch 82 - Train Loss: 0.050643 - Time: 207.9s - LR: 0.000050
+✓ Saved checkpoint
+
+Epoch 83/200 - Corruption Rate: 79.20%
+Epoch 83/200: 100%|██████████| 62/62 [03:28<00:00,  3.37s/it, loss=0.049785, avg_loss=0.050365]
+Epoch 83 - Train Loss: 0.050365 - Time: 209.0s - LR: 0.000050
+
+Epoch 84/200 - Corruption Rate: 79.80%
+Epoch 84/200: 100%|██████████| 62/62 [03:28<00:00,  3.37s/it, loss=0.055253, avg_loss=0.050832]
+Epoch 84 - Train Loss: 0.050832 - Time: 208.7s - LR: 0.000050
+✓ Saved checkpoint
+
+Epoch 85/200 - Corruption Rate: 80.40%
+Epoch 85/200: 100%|██████████| 62/62 [03:28<00:00,  3.37s/it, loss=0.051891, avg_loss=0.051076]Epoch 85 - Train Loss: 0.051076 - Time: 208.8s - LR: 0.000050
+
+Validation Loss: 0.062375
+✓ Saved best model (val_loss: 0.062375)
+
+Epoch 86/200 - Corruption Rate: 81.00%
+Epoch 86/200: 100%|██████████| 62/62 [03:29<00:00,  3.38s/it, loss=0.050884, avg_loss=0.051728]
+Epoch 86 - Train Loss: 0.051728 - Time: 209.8s - LR: 0.000050
+✓ Saved checkpoint
+
+Epoch 87/200 - Corruption Rate: 81.60%
+Epoch 87/200: 100%|██████████| 62/62 [03:35<00:00,  3.48s/it, loss=0.051547, avg_loss=0.051312]
+Epoch 87 - Train Loss: 0.051312 - Time: 215.8s - LR: 0.000050
+
+Epoch 88/200 - Corruption Rate: 82.20%
+Epoch 88/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.055804, avg_loss=0.051915]
+Epoch 88 - Train Loss: 0.051915 - Time: 216.8s - LR: 0.000050
+✓ Saved checkpoint
+
+Epoch 89/200 - Corruption Rate: 82.80%
+Epoch 89/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.060510, avg_loss=0.052530]
+Epoch 89 - Train Loss: 0.052530 - Time: 216.6s - LR: 0.000050
+
+Epoch 90/200 - Corruption Rate: 83.40%
+Epoch 90/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.054129, avg_loss=0.052256]Epoch 90 - Train Loss: 0.052256 - Time: 216.4s - LR: 0.000050
+
+Validation Loss: 0.061647
+✓ Saved best model (val_loss: 0.061647)
+✓ Saved checkpoint
+
+Epoch 91/200 - Corruption Rate: 84.00%
+Epoch 91/200: 100%|██████████| 62/62 [03:37<00:00,  3.50s/it, loss=0.044250, avg_loss=0.052664]
+Epoch 91 - Train Loss: 0.052664 - Time: 217.0s - LR: 0.000050
+
+Epoch 92/200 - Corruption Rate: 84.60%
+Epoch 92/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.053757, avg_loss=0.053017]
+Epoch 92 - Train Loss: 0.053017 - Time: 216.6s - LR: 0.000050
+✓ Saved checkpoint
+
+Epoch 93/200 - Corruption Rate: 85.20%
+Epoch 93/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.054240, avg_loss=0.053390]
+Epoch 93 - Train Loss: 0.053390 - Time: 216.5s - LR: 0.000050
+
+Epoch 94/200 - Corruption Rate: 85.80%
+Epoch 94/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.052644, avg_loss=0.053855]
+Epoch 94 - Train Loss: 0.053855 - Time: 216.7s - LR: 0.000050
+✓ Saved checkpoint
+
+Epoch 95/200 - Corruption Rate: 86.40%
+Epoch 95/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.055950, avg_loss=0.054304]Epoch 95 - Train Loss: 0.054304 - Time: 216.6s - LR: 0.000050
+
+Validation Loss: 0.067090
+
+Epoch 96/200 - Corruption Rate: 87.00%
+Epoch 96/200: 100%|██████████| 62/62 [03:37<00:00,  3.51s/it, loss=0.052011, avg_loss=0.054992]
+Epoch 96 - Train Loss: 0.054992 - Time: 217.6s - LR: 0.000050
+✓ Saved checkpoint
+
+Epoch 97/200 - Corruption Rate: 87.60%
+Epoch 97/200: 100%|██████████| 62/62 [03:37<00:00,  3.50s/it, loss=0.052373, avg_loss=0.055164]
+Epoch 97 - Train Loss: 0.055164 - Time: 217.0s - LR: 0.000050
+
+Epoch 98/200 - Corruption Rate: 88.20%
+Epoch 98/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.053958, avg_loss=0.055819]
+Epoch 98 - Train Loss: 0.055819 - Time: 216.4s - LR: 0.000050
+✓ Saved checkpoint
+
+Epoch 99/200 - Corruption Rate: 88.80%
+Epoch 99/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.051994, avg_loss=0.056243]
+Epoch 99 - Train Loss: 0.056243 - Time: 216.5s - LR: 0.000050
+
+Epoch 100/200 - Corruption Rate: 89.40%
+Epoch 100/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.054399, avg_loss=0.056485]Epoch 100 - Train Loss: 0.056485 - Time: 216.6s - LR: 0.000050
+
+Validation Loss: 0.072927
+✓ Saved checkpoint
+
+Epoch 101/200 - Corruption Rate: 90.00%
+Epoch 101/200: 100%|██████████| 62/62 [03:37<00:00,  3.51s/it, loss=0.057638, avg_loss=0.056721]
+Epoch 101 - Train Loss: 0.056721 - Time: 217.4s - LR: 0.000025
+
+Epoch 102/200 - Corruption Rate: 90.00%
+Epoch 102/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.057302, avg_loss=0.057192]
+Epoch 102 - Train Loss: 0.057192 - Time: 216.9s - LR: 0.000025
+✓ Saved checkpoint
+
+Epoch 103/200 - Corruption Rate: 90.00%
+Epoch 103/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.055179, avg_loss=0.056774]
+Epoch 103 - Train Loss: 0.056774 - Time: 216.2s - LR: 0.000025
+
+Epoch 104/200 - Corruption Rate: 90.00%
+Epoch 104/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.059995, avg_loss=0.056994]
+Epoch 104 - Train Loss: 0.056994 - Time: 216.9s - LR: 0.000025
+✓ Saved checkpoint
+
+Epoch 105/200 - Corruption Rate: 90.00%
+Epoch 105/200: 100%|██████████| 62/62 [03:37<00:00,  3.50s/it, loss=0.049579, avg_loss=0.056719]Epoch 105 - Train Loss: 0.056719 - Time: 217.2s - LR: 0.000025
+
+Validation Loss: 0.069012
+
+Epoch 106/200 - Corruption Rate: 90.00%
+Epoch 106/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.058785, avg_loss=0.056831]
+Epoch 106 - Train Loss: 0.056831 - Time: 216.8s - LR: 0.000025
+✓ Saved checkpoint
+
+Epoch 107/200 - Corruption Rate: 90.00%
+Epoch 107/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.045707, avg_loss=0.056241]
+Epoch 107 - Train Loss: 0.056241 - Time: 216.7s - LR: 0.000025
+
+Epoch 108/200 - Corruption Rate: 90.00%
+Epoch 108/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.052363, avg_loss=0.056242]
+Epoch 108 - Train Loss: 0.056242 - Time: 216.1s - LR: 0.000025
+✓ Saved checkpoint
+
+Epoch 109/200 - Corruption Rate: 90.00%
+Epoch 109/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.055428, avg_loss=0.056547]
+Epoch 109 - Train Loss: 0.056547 - Time: 216.3s - LR: 0.000025
+
+Epoch 110/200 - Corruption Rate: 90.00%
+Epoch 110/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.060707, avg_loss=0.056534]Epoch 110 - Train Loss: 0.056534 - Time: 216.5s - LR: 0.000025
+
+Validation Loss: 0.065797
+✓ Saved checkpoint
+
+Epoch 111/200 - Corruption Rate: 90.00%
+Epoch 111/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.054105, avg_loss=0.056246]
+Epoch 111 - Train Loss: 0.056246 - Time: 216.2s - LR: 0.000025
+
+Epoch 112/200 - Corruption Rate: 90.00%
+Epoch 112/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.060478, avg_loss=0.056033]
+Epoch 112 - Train Loss: 0.056033 - Time: 216.7s - LR: 0.000025
+✓ Saved checkpoint
+
+Epoch 113/200 - Corruption Rate: 90.00%
+Epoch 113/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.055097, avg_loss=0.056059]
+Epoch 113 - Train Loss: 0.056059 - Time: 216.1s - LR: 0.000025
+
+Epoch 114/200 - Corruption Rate: 90.00%
+Epoch 114/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.056096, avg_loss=0.056205]
+Epoch 114 - Train Loss: 0.056205 - Time: 216.7s - LR: 0.000025
+✓ Saved checkpoint
+
+Epoch 115/200 - Corruption Rate: 90.00%
+Epoch 115/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.065639, avg_loss=0.056308]Epoch 115 - Train Loss: 0.056308 - Time: 216.3s - LR: 0.000025
+
+Validation Loss: 0.067194
+
+Epoch 116/200 - Corruption Rate: 90.00%
+Epoch 116/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.050277, avg_loss=0.055817]
+Epoch 116 - Train Loss: 0.055817 - Time: 216.9s - LR: 0.000025
+✓ Saved checkpoint
+
+Epoch 117/200 - Corruption Rate: 90.00%
+Epoch 117/200: 100%|██████████| 62/62 [03:37<00:00,  3.50s/it, loss=0.056903, avg_loss=0.055889]
+Epoch 117 - Train Loss: 0.055889 - Time: 217.1s - LR: 0.000025
+
+Epoch 118/200 - Corruption Rate: 90.00%
+Epoch 118/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.066714, avg_loss=0.055767]
+Epoch 118 - Train Loss: 0.055767 - Time: 216.5s - LR: 0.000025
+✓ Saved checkpoint
+
+Epoch 119/200 - Corruption Rate: 90.00%
+Epoch 119/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.055407, avg_loss=0.056226]
+Epoch 119 - Train Loss: 0.056226 - Time: 216.2s - LR: 0.000025
+
+Epoch 120/200 - Corruption Rate: 90.00%
+Epoch 120/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.056923, avg_loss=0.055725]Epoch 120 - Train Loss: 0.055725 - Time: 216.7s - LR: 0.000025
+
+Validation Loss: 0.067547
+✓ Saved checkpoint
+
+Epoch 121/200 - Corruption Rate: 90.00%
+Epoch 121/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.052810, avg_loss=0.055823]
+Epoch 121 - Train Loss: 0.055823 - Time: 216.4s - LR: 0.000025
+
+Epoch 122/200 - Corruption Rate: 90.00%
+Epoch 122/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.056180, avg_loss=0.055785]
+Epoch 122 - Train Loss: 0.055785 - Time: 216.9s - LR: 0.000025
+✓ Saved checkpoint
+
+Epoch 123/200 - Corruption Rate: 90.00%
+Epoch 123/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.054418, avg_loss=0.055583]
+Epoch 123 - Train Loss: 0.055583 - Time: 217.0s - LR: 0.000025
+
+Epoch 124/200 - Corruption Rate: 90.00%
+Epoch 124/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.051834, avg_loss=0.055421]
+Epoch 124 - Train Loss: 0.055421 - Time: 216.4s - LR: 0.000025
+✓ Saved checkpoint
+
+Epoch 125/200 - Corruption Rate: 90.00%
+Epoch 125/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.053246, avg_loss=0.055587]Epoch 125 - Train Loss: 0.055587 - Time: 216.4s - LR: 0.000025
+
+Validation Loss: 0.066359
+
+Epoch 126/200 - Corruption Rate: 90.00%
+Epoch 126/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.049876, avg_loss=0.055337]
+Epoch 126 - Train Loss: 0.055337 - Time: 216.6s - LR: 0.000025
+✓ Saved checkpoint
+
+Epoch 127/200 - Corruption Rate: 90.00%
+Epoch 127/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.054957, avg_loss=0.055769]
+Epoch 127 - Train Loss: 0.055769 - Time: 216.4s - LR: 0.000025
+
+Epoch 128/200 - Corruption Rate: 90.00%
+Epoch 128/200: 100%|██████████| 62/62 [03:36<00:00,  3.48s/it, loss=0.052276, avg_loss=0.055080]
+Epoch 128 - Train Loss: 0.055080 - Time: 216.1s - LR: 0.000025
+✓ Saved checkpoint
+
+Epoch 129/200 - Corruption Rate: 90.00%
+Epoch 129/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.059672, avg_loss=0.055167]
+Epoch 129 - Train Loss: 0.055167 - Time: 216.4s - LR: 0.000025
+
+Epoch 130/200 - Corruption Rate: 90.00%
+Epoch 130/200: 100%|██████████| 62/62 [03:37<00:00,  3.51s/it, loss=0.054581, avg_loss=0.055415]Epoch 130 - Train Loss: 0.055415 - Time: 217.4s - LR: 0.000025
+
+Validation Loss: 0.070448
+✓ Saved checkpoint
+
+Epoch 131/200 - Corruption Rate: 90.00%
+Epoch 131/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.060551, avg_loss=0.055460]
+Epoch 131 - Train Loss: 0.055460 - Time: 216.8s - LR: 0.000025
+
+Epoch 132/200 - Corruption Rate: 90.00%
+Epoch 132/200: 100%|██████████| 62/62 [03:37<00:00,  3.51s/it, loss=0.064758, avg_loss=0.055187]
+Epoch 132 - Train Loss: 0.055187 - Time: 217.5s - LR: 0.000025
+✓ Saved checkpoint
+
+Epoch 133/200 - Corruption Rate: 90.00%
+Epoch 133/200: 100%|██████████| 62/62 [03:37<00:00,  3.50s/it, loss=0.058217, avg_loss=0.055097]
+Epoch 133 - Train Loss: 0.055097 - Time: 217.0s - LR: 0.000025
+
+Epoch 134/200 - Corruption Rate: 90.00%
+Epoch 134/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.054680, avg_loss=0.055066]
+Epoch 134 - Train Loss: 0.055066 - Time: 216.7s - LR: 0.000025
+✓ Saved checkpoint
+
+Epoch 135/200 - Corruption Rate: 90.00%
+Epoch 135/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.068451, avg_loss=0.055161]Epoch 135 - Train Loss: 0.055161 - Time: 216.8s - LR: 0.000025
+
+Validation Loss: 0.067661
+
+Epoch 136/200 - Corruption Rate: 90.00%
+Epoch 136/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.061941, avg_loss=0.055297]
+Epoch 136 - Train Loss: 0.055297 - Time: 216.7s - LR: 0.000025
+✓ Saved checkpoint
+
+Epoch 137/200 - Corruption Rate: 90.00%
+Epoch 137/200: 100%|██████████| 62/62 [03:37<00:00,  3.51s/it, loss=0.056115, avg_loss=0.055005]
+Epoch 137 - Train Loss: 0.055005 - Time: 217.6s - LR: 0.000025
+
+Epoch 138/200 - Corruption Rate: 90.00%
+Epoch 138/200: 100%|██████████| 62/62 [03:37<00:00,  3.50s/it, loss=0.057924, avg_loss=0.054710]
+Epoch 138 - Train Loss: 0.054710 - Time: 217.1s - LR: 0.000025
+✓ Saved checkpoint
+
+Epoch 139/200 - Corruption Rate: 90.00%
+Epoch 139/200: 100%|██████████| 62/62 [03:37<00:00,  3.50s/it, loss=0.052768, avg_loss=0.054998]
+Epoch 139 - Train Loss: 0.054998 - Time: 217.2s - LR: 0.000025
+
+Epoch 140/200 - Corruption Rate: 90.00%
+Epoch 140/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.059386, avg_loss=0.054782]Epoch 140 - Train Loss: 0.054782 - Time: 216.2s - LR: 0.000025
+
+Validation Loss: 0.063433
+✓ Saved checkpoint
+
+Epoch 141/200 - Corruption Rate: 90.00%
+Epoch 141/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.058264, avg_loss=0.054932]
+Epoch 141 - Train Loss: 0.054932 - Time: 216.4s - LR: 0.000025
+
+Epoch 142/200 - Corruption Rate: 90.00%
+Epoch 142/200: 100%|██████████| 62/62 [03:37<00:00,  3.50s/it, loss=0.052912, avg_loss=0.055051]
+Epoch 142 - Train Loss: 0.055051 - Time: 217.1s - LR: 0.000025
+✓ Saved checkpoint
+
+Epoch 143/200 - Corruption Rate: 90.00%
+Epoch 143/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.051582, avg_loss=0.054568]
+Epoch 143 - Train Loss: 0.054568 - Time: 216.8s - LR: 0.000025
+
+Epoch 144/200 - Corruption Rate: 90.00%
+Epoch 144/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.053888, avg_loss=0.054696]
+Epoch 144 - Train Loss: 0.054696 - Time: 216.4s - LR: 0.000025
+✓ Saved checkpoint
+
+Epoch 145/200 - Corruption Rate: 90.00%
+Epoch 145/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.057161, avg_loss=0.054577]Epoch 145 - Train Loss: 0.054577 - Time: 216.7s - LR: 0.000025
+
+Validation Loss: 0.066559
+
+Epoch 146/200 - Corruption Rate: 90.00%
+Epoch 146/200: 100%|██████████| 62/62 [03:37<00:00,  3.50s/it, loss=0.056154, avg_loss=0.054627]
+Epoch 146 - Train Loss: 0.054627 - Time: 217.1s - LR: 0.000025
+✓ Saved checkpoint
+
+Epoch 147/200 - Corruption Rate: 90.00%
+Epoch 147/200: 100%|██████████| 62/62 [03:35<00:00,  3.48s/it, loss=0.051063, avg_loss=0.054279]
+Epoch 147 - Train Loss: 0.054279 - Time: 215.9s - LR: 0.000025
+
+Epoch 148/200 - Corruption Rate: 90.00%
+Epoch 148/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.057830, avg_loss=0.054773]
+Epoch 148 - Train Loss: 0.054773 - Time: 216.9s - LR: 0.000025
+✓ Saved checkpoint
+
+Epoch 149/200 - Corruption Rate: 90.00%
+Epoch 149/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.050688, avg_loss=0.054407]
+Epoch 149 - Train Loss: 0.054407 - Time: 217.0s - LR: 0.000025
+
+Epoch 150/200 - Corruption Rate: 90.00%
+Epoch 150/200: 100%|██████████| 62/62 [03:38<00:00,  3.52s/it, loss=0.053025, avg_loss=0.054168]Epoch 150 - Train Loss: 0.054168 - Time: 218.1s - LR: 0.000025
+
+Validation Loss: 0.064158
+✓ Saved checkpoint
+
+Epoch 151/200 - Corruption Rate: 90.00%
+Epoch 151/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.055140, avg_loss=0.054087]
+Epoch 151 - Train Loss: 0.054087 - Time: 216.5s - LR: 0.000013
+
+Epoch 152/200 - Corruption Rate: 90.00%
+Epoch 152/200: 100%|██████████| 62/62 [03:37<00:00,  3.50s/it, loss=0.052292, avg_loss=0.054307]
+Epoch 152 - Train Loss: 0.054307 - Time: 217.1s - LR: 0.000013
+✓ Saved checkpoint
+
+Epoch 153/200 - Corruption Rate: 90.00%
+Epoch 153/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.063450, avg_loss=0.054139]
+Epoch 153 - Train Loss: 0.054139 - Time: 216.8s - LR: 0.000013
+
+Epoch 154/200 - Corruption Rate: 90.00%
+Epoch 154/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.053441, avg_loss=0.054163]
+Epoch 154 - Train Loss: 0.054163 - Time: 216.9s - LR: 0.000013
+✓ Saved checkpoint
+
+Epoch 155/200 - Corruption Rate: 90.00%
+Epoch 155/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.049080, avg_loss=0.053814]Epoch 155 - Train Loss: 0.053814 - Time: 216.5s - LR: 0.000013
+
+Validation Loss: 0.062634
+
+Epoch 156/200 - Corruption Rate: 90.00%
+Epoch 156/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.056442, avg_loss=0.053812]
+Epoch 156 - Train Loss: 0.053812 - Time: 216.5s - LR: 0.000013
+✓ Saved checkpoint
+
+Epoch 157/200 - Corruption Rate: 90.00%
+Epoch 157/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.052011, avg_loss=0.053987]
+Epoch 157 - Train Loss: 0.053987 - Time: 216.3s - LR: 0.000013
+
+Epoch 158/200 - Corruption Rate: 90.00%
+Epoch 158/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.048670, avg_loss=0.053858]
+Epoch 158 - Train Loss: 0.053858 - Time: 216.2s - LR: 0.000013
+✓ Saved checkpoint
+
+Epoch 159/200 - Corruption Rate: 90.00%
+Epoch 159/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.062222, avg_loss=0.053984]
+Epoch 159 - Train Loss: 0.053984 - Time: 216.3s - LR: 0.000013
+
+Epoch 160/200 - Corruption Rate: 90.00%
+Epoch 160/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.055917, avg_loss=0.054195]Epoch 160 - Train Loss: 0.054195 - Time: 216.5s - LR: 0.000013
+
+Validation Loss: 0.066010
+✓ Saved checkpoint
+
+Epoch 161/200 - Corruption Rate: 90.00%
+Epoch 161/200: 100%|██████████| 62/62 [03:37<00:00,  3.50s/it, loss=0.059685, avg_loss=0.053590]
+Epoch 161 - Train Loss: 0.053590 - Time: 217.1s - LR: 0.000013
+
+Epoch 162/200 - Corruption Rate: 90.00%
+Epoch 162/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.055025, avg_loss=0.054048]
+Epoch 162 - Train Loss: 0.054048 - Time: 216.5s - LR: 0.000013
+✓ Saved checkpoint
+
+Epoch 163/200 - Corruption Rate: 90.00%
+Epoch 163/200: 100%|██████████| 62/62 [03:37<00:00,  3.50s/it, loss=0.053168, avg_loss=0.053620]
+Epoch 163 - Train Loss: 0.053620 - Time: 217.2s - LR: 0.000013
+
+Epoch 164/200 - Corruption Rate: 90.00%
+Epoch 164/200: 100%|██████████| 62/62 [03:37<00:00,  3.51s/it, loss=0.049779, avg_loss=0.053256]
+Epoch 164 - Train Loss: 0.053256 - Time: 217.4s - LR: 0.000013
+✓ Saved checkpoint
+
+Epoch 165/200 - Corruption Rate: 90.00%
+Epoch 165/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.049541, avg_loss=0.053625]Epoch 165 - Train Loss: 0.053625 - Time: 216.1s - LR: 0.000013
+
+Validation Loss: 0.066548
+
+Epoch 166/200 - Corruption Rate: 90.00%
+Epoch 166/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.057501, avg_loss=0.053855]
+Epoch 166 - Train Loss: 0.053855 - Time: 216.5s - LR: 0.000013
+✓ Saved checkpoint
+
+Epoch 167/200 - Corruption Rate: 90.00%
+Epoch 167/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.049622, avg_loss=0.053216]
+Epoch 167 - Train Loss: 0.053216 - Time: 216.8s - LR: 0.000013
+
+Epoch 168/200 - Corruption Rate: 90.00%
+Epoch 168/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.054487, avg_loss=0.053584]
+Epoch 168 - Train Loss: 0.053584 - Time: 216.3s - LR: 0.000013
+✓ Saved checkpoint
+
+Epoch 169/200 - Corruption Rate: 90.00%
+Epoch 169/200: 100%|██████████| 62/62 [03:37<00:00,  3.50s/it, loss=0.054738, avg_loss=0.053611]
+Epoch 169 - Train Loss: 0.053611 - Time: 217.1s - LR: 0.000013
+
+Epoch 170/200 - Corruption Rate: 90.00%
+Epoch 170/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.056902, avg_loss=0.053584]Epoch 170 - Train Loss: 0.053584 - Time: 216.6s - LR: 0.000013
+
+Validation Loss: 0.065196
+✓ Saved checkpoint
+
+Epoch 171/200 - Corruption Rate: 90.00%
+Epoch 171/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.055376, avg_loss=0.053734]
+Epoch 171 - Train Loss: 0.053734 - Time: 216.7s - LR: 0.000013
+
+Epoch 172/200 - Corruption Rate: 90.00%
+Epoch 172/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.051523, avg_loss=0.053387]
+Epoch 172 - Train Loss: 0.053387 - Time: 216.4s - LR: 0.000013
+✓ Saved checkpoint
+
+Epoch 173/200 - Corruption Rate: 90.00%
+Epoch 173/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.057826, avg_loss=0.053608]
+Epoch 173 - Train Loss: 0.053608 - Time: 216.9s - LR: 0.000013
+
+Epoch 174/200 - Corruption Rate: 90.00%
+Epoch 174/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.057134, avg_loss=0.053179]
+Epoch 174 - Train Loss: 0.053179 - Time: 216.3s - LR: 0.000013
+✓ Saved checkpoint
+
+Epoch 175/200 - Corruption Rate: 90.00%
+Epoch 175/200: 100%|██████████| 62/62 [03:37<00:00,  3.51s/it, loss=0.058756, avg_loss=0.053415]Epoch 175 - Train Loss: 0.053415 - Time: 217.4s - LR: 0.000013
+
+Validation Loss: 0.065750
+
+Epoch 176/200 - Corruption Rate: 90.00%
+Epoch 176/200: 100%|██████████| 62/62 [03:37<00:00,  3.51s/it, loss=0.052817, avg_loss=0.053299]
+Epoch 176 - Train Loss: 0.053299 - Time: 217.3s - LR: 0.000013
+✓ Saved checkpoint
+
+Epoch 177/200 - Corruption Rate: 90.00%
+Epoch 177/200: 100%|██████████| 62/62 [03:37<00:00,  3.51s/it, loss=0.055356, avg_loss=0.053080]
+Epoch 177 - Train Loss: 0.053080 - Time: 217.4s - LR: 0.000013
+
+Epoch 178/200 - Corruption Rate: 90.00%
+Epoch 178/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.052906, avg_loss=0.053010]
+Epoch 178 - Train Loss: 0.053010 - Time: 216.5s - LR: 0.000013
+✓ Saved checkpoint
+
+Epoch 179/200 - Corruption Rate: 90.00%
+Epoch 179/200: 100%|██████████| 62/62 [03:37<00:00,  3.50s/it, loss=0.052097, avg_loss=0.053250]
+Epoch 179 - Train Loss: 0.053250 - Time: 217.2s - LR: 0.000013
+
+Epoch 180/200 - Corruption Rate: 90.00%
+Epoch 180/200: 100%|██████████| 62/62 [03:38<00:00,  3.52s/it, loss=0.053369, avg_loss=0.053178]Epoch 180 - Train Loss: 0.053178 - Time: 218.5s - LR: 0.000013
+
+Validation Loss: 0.070131
+✓ Saved checkpoint
+
+Epoch 181/200 - Corruption Rate: 90.00%
+Epoch 181/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.052077, avg_loss=0.053446]
+Epoch 181 - Train Loss: 0.053446 - Time: 216.6s - LR: 0.000013
+
+Epoch 182/200 - Corruption Rate: 90.00%
+Epoch 182/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.050233, avg_loss=0.053225]
+Epoch 182 - Train Loss: 0.053225 - Time: 216.2s - LR: 0.000013
+✓ Saved checkpoint
+
+Epoch 183/200 - Corruption Rate: 90.00%
+Epoch 183/200: 100%|██████████| 62/62 [03:35<00:00,  3.48s/it, loss=0.052248, avg_loss=0.053113]
+Epoch 183 - Train Loss: 0.053113 - Time: 215.6s - LR: 0.000013
+
+Epoch 184/200 - Corruption Rate: 90.00%
+Epoch 184/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.052418, avg_loss=0.053092]
+Epoch 184 - Train Loss: 0.053092 - Time: 216.9s - LR: 0.000013
+✓ Saved checkpoint
+
+Epoch 185/200 - Corruption Rate: 90.00%
+Epoch 185/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.054195, avg_loss=0.053139]Epoch 185 - Train Loss: 0.053139 - Time: 216.5s - LR: 0.000013
+
+Validation Loss: 0.069987
+
+Epoch 186/200 - Corruption Rate: 90.00%
+Epoch 186/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.049394, avg_loss=0.053035]
+Epoch 186 - Train Loss: 0.053035 - Time: 216.9s - LR: 0.000013
+✓ Saved checkpoint
+
+Epoch 187/200 - Corruption Rate: 90.00%
+Epoch 187/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.050330, avg_loss=0.052774]
+Epoch 187 - Train Loss: 0.052774 - Time: 216.3s - LR: 0.000013
+
+Epoch 188/200 - Corruption Rate: 90.00%
+Epoch 188/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.056073, avg_loss=0.053055]
+Epoch 188 - Train Loss: 0.053055 - Time: 216.9s - LR: 0.000013
+✓ Saved checkpoint
+
+Epoch 189/200 - Corruption Rate: 90.00%
+Epoch 189/200: 100%|██████████| 62/62 [03:37<00:00,  3.50s/it, loss=0.051473, avg_loss=0.053181]
+Epoch 189 - Train Loss: 0.053181 - Time: 217.0s - LR: 0.000013
+
+Epoch 190/200 - Corruption Rate: 90.00%
+Epoch 190/200: 100%|██████████| 62/62 [03:37<00:00,  3.51s/it, loss=0.053542, avg_loss=0.052903]Epoch 190 - Train Loss: 0.052903 - Time: 217.5s - LR: 0.000013
+
+Validation Loss: 0.062330
+✓ Saved checkpoint
+
+Epoch 191/200 - Corruption Rate: 90.00%
+Epoch 191/200: 100%|██████████| 62/62 [03:37<00:00,  3.51s/it, loss=0.056039, avg_loss=0.052938]
+Epoch 191 - Train Loss: 0.052938 - Time: 217.7s - LR: 0.000013
+
+Epoch 192/200 - Corruption Rate: 90.00%
+Epoch 192/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.058283, avg_loss=0.052992]
+Epoch 192 - Train Loss: 0.052992 - Time: 216.6s - LR: 0.000013
+✓ Saved checkpoint
+
+Epoch 193/200 - Corruption Rate: 90.00%
+Epoch 193/200: 100%|██████████| 62/62 [03:37<00:00,  3.50s/it, loss=0.055958, avg_loss=0.052989]
+Epoch 193 - Train Loss: 0.052989 - Time: 217.3s - LR: 0.000013
+
+Epoch 194/200 - Corruption Rate: 90.00%
+Epoch 194/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.049960, avg_loss=0.052775]
+Epoch 194 - Train Loss: 0.052775 - Time: 216.5s - LR: 0.000013
+✓ Saved checkpoint
+
+Epoch 195/200 - Corruption Rate: 90.00%
+Epoch 195/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.054570, avg_loss=0.052897]Epoch 195 - Train Loss: 0.052897 - Time: 216.8s - LR: 0.000013
+
+Validation Loss: 0.058817
+✓ Saved best model (val_loss: 0.058817)
+
+Epoch 196/200 - Corruption Rate: 90.00%
+Epoch 196/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.055120, avg_loss=0.052684]
+Epoch 196 - Train Loss: 0.052684 - Time: 216.3s - LR: 0.000013
+✓ Saved checkpoint
+
+Epoch 197/200 - Corruption Rate: 90.00%
+Epoch 197/200: 100%|██████████| 62/62 [03:36<00:00,  3.49s/it, loss=0.050100, avg_loss=0.052749]
+Epoch 197 - Train Loss: 0.052749 - Time: 216.4s - LR: 0.000013
+
+Epoch 198/200 - Corruption Rate: 90.00%
+Epoch 198/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.057514, avg_loss=0.053239]
+Epoch 198 - Train Loss: 0.053239 - Time: 217.0s - LR: 0.000013
+✓ Saved checkpoint
+
+Epoch 199/200 - Corruption Rate: 90.00%
+Epoch 199/200: 100%|██████████| 62/62 [03:36<00:00,  3.50s/it, loss=0.050409, avg_loss=0.052679]
+Epoch 199 - Train Loss: 0.052679 - Time: 216.8s - LR: 0.000013
+
+Epoch 200/200 - Corruption Rate: 90.00%
+Epoch 200/200: 100%|██████████| 62/62 [03:37<00:00,  3.50s/it, loss=0.059742, avg_loss=0.052865]Epoch 200 - Train Loss: 0.052865 - Time: 217.2s - LR: 0.000013
+
+Validation Loss: 0.060004
+✓ Saved checkpoint
+
+============================================================
+Training completed!
+Best validation loss: 0.058817
+============================================================
